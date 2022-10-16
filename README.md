@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - 🏢 I’m currently working at GFT as a Cloud Engineer
 - 🌱 I’m currently learning GCP, Terraform, python, go...
 - 📫 How to reach me: 
-<a href="" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" height="40" width="40" /></a>
-<a href="adriacasalsespax@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1280px-Gmail_Icon_%282013-2020%29.svg.png" alt="" height="40" width="48" /></a>
+<a href="https://www.linkedin.com/in/adrià-casals-espax-1b343b146/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="" height="40" width="40" /></a>
+<a href="mailto:adriacasalsespax@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/1280px-Gmail_Icon_%282013-2020%29.svg.png" alt="" height="40" width="48" /></a>
 
 
 [![@adricasi's Holopin board](https://holopin.me/adricasi)](https://holopin.io/@adricasi)
